@@ -30,7 +30,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/Valentina14142000/serviceflow-ai.git](https://github.com/Valentina14142000/serviceflow-ai.git)
+git clone GitHub repo
 cd serviceflow-ai
 ```
 
